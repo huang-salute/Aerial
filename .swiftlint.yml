@@ -30,4 +30,4 @@ file_length:
 line_length: 250
 identifier_name:
   min_length:
-    warning: 3
+    warning: 2
